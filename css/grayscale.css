@@ -273,9 +273,22 @@ a:focus {
 
 .donate-section {
     width: 100%;
-    padding: 250px 0;
+    padding: 50px 0;
     color: #fff;
-    background: url(../img/donat.jpg) no-repeat center center scroll;
+    background: url(../img/donate.jpg) no-repeat center center scroll;
+    background-attachment: fixed;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.resources {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/gift.jpg) no-repeat center center scroll;
     background-attachment: fixed;
     background-color: #000;
     -webkit-background-size: cover;
