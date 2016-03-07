@@ -388,3 +388,7 @@ body {
 #form {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+.fa-bars {
+    color: #fff;
+}
