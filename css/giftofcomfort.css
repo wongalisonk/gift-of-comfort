@@ -307,17 +307,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #FF9681;
-    color: #FF9681;
+    border: 1px solid #cc7867;
+    color: #cc7867;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #FF9681;
+    border: 1px solid #cc7867;
     outline: 0;
     color: #FFF;
-    background-color: #FF9681;
+    background-color: #cc7867;
 }
 
 ul.banner-social-buttons {
@@ -354,14 +354,16 @@ footer p {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: #564256;
+    background: rgba(86,66,86, 0.8);
+    color: #fff;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(255,255,255,.2);
+    background: #564256;
+    background: rgba(86,66,86, 0.8);
+    color: #fff;
 }
 
 img::selection {
